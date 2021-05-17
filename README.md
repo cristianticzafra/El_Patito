@@ -1,0 +1,1 @@
+# El_Patito Se ha mejorado el código solucionando el error que no dejaba calcular correctamente el promedio (n+1 datos) así como se ha añadido la opción de continuar ingresando una cantidad de datos hasta que se decida cerrar el algoritmo.
